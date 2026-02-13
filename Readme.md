@@ -6,7 +6,7 @@ In this work, we improve the CNN worked with DQN proposed by Deep Mind by using 
 We add DRQN and GE Heuristics.  
 We Also use [OpenAI Gym](https://gym.openai.com/envs/#atari)
 
-### Install:
+# Installation
 
 ```
       sudo apt-get install -y python-numpy python-dev cmake zlib1g-dev libjpeg-dev xvfb ffmpeg xorg-dev python-opengl libboost-all-dev libsdl2-dev swig
