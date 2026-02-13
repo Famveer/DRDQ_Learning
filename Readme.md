@@ -1,6 +1,6 @@
 # Deep reinforcement Learning for Atari
 
-Exploring DRDQ learning method for Reinforcement Learning applaied in atari games. [Link](https://fmorenovr.github.io/documents/papers/conferences/2019_LACCI.pdf).
+Exploring DRDQ learning method for Reinforcement Learning applaied in atari games. [Paper](https://fmorenovr.github.io/documents/papers/conferences/2019_LACCI.pdf).
 
 In this work, we improve the CNN worked with DQN proposed by Deep Mind by using [gsurma](https://github.com/gsurma/atari) as baseline.  
 We add DRQN and GE Heuristics.  
