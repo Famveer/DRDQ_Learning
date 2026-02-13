@@ -29,3 +29,6 @@ Install:
   doi={10.1109/LA-CCI47412.2019.9036763}
 }
 ```
+
+# Contact us  
+For any issue please kindly email to `felipe [dot] moreno [at] fgv [dot] br`
